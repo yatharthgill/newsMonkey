@@ -1,0 +1,7 @@
+<Route path="/business element={<News mode={mode} toggleMode={this.toggleMode} pageSize={6} country={'in'} />}/>
+<Route path="/entertainment element={<News mode={mode} toggleMode={this.toggleMode} pageSize={6} country={'in'} />}/>
+<Route path="/general element={<News mode={mode} toggleMode={this.toggleMode} pageSize={6} country={'in'} />}/>
+<Route path="/health element={<News mode={mode} toggleMode={this.toggleMode} pageSize={6} country={'in'} />}/>
+<Route path="/science element={<News mode={mode} toggleMode={this.toggleMode} pageSize={6} country={'in'} />}/>
+<Route path="/sports element={<News mode={mode} toggleMode={this.toggleMode} pageSize={6} country={'in'} />}/>
+<Route path="/technology element={<News mode={mode} toggleMode={this.toggleMode} pageSize={6} country={'in'} />}/>
