@@ -33,7 +33,6 @@ class App extends Component {
   setProgress=(progress)=>{
     this.setState({progress:progress})
   }
-
   render() {
     const { mode } = this.state;
     
